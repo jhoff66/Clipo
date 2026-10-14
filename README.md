@@ -31,6 +31,7 @@ Sem a permissão o Clipo continua funcionando, mas só copia o item; você cola 
 ## Como usar
 
 - **Clique no clipe** da barra de menus ou aperte **⌘2** para abrir a lista. O clique direito abre o menu.
+- Guarda texto e imagens (prints, imagens copiadas do navegador). Imagens aparecem com miniatura e colam como imagem.
 - Na lista, digite para buscar e use as teclas:
 
 | Tecla | Ação |
