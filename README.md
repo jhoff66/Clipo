@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/icon.png" width="128" alt="Ícone do Clipo"></p>
+<p align="center"><img src="docs/logo.png" width="128" alt="Ícone do Clipo"></p>
 
 <h1 align="center">Clipo</h1>
 
