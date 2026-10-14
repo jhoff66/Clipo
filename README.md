@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/icon.png" width="128" alt="Ícone do Clipo"></p>
+
 <h1 align="center">Clipo</h1>
 
 <p align="center">Gerenciador de área de transferência para macOS, na barra de menus.<br>Guarda o que você copia e cola de novo com um atalho.</p>
