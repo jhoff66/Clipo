@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/icon.png" width="128" alt="Ícone do Clipo"></p>
+<p align="center"><img src="docs/cover.png" alt="Clipo: tudo o que você copia, a um atalho de distância"></p>
 
 <h1 align="center">Clipo</h1>
 
