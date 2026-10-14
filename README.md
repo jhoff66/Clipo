@@ -1,5 +1,3 @@
-<p align="center"><img src="docs/cover.png" alt="Clipo: tudo o que você copia, a um atalho de distância"></p>
-
 <h1 align="center">Clipo</h1>
 
 <p align="center">Gerenciador de área de transferência para macOS, na barra de menus.<br>Guarda o que você copia e cola de novo com um atalho.</p>
