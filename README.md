@@ -24,7 +24,12 @@ Funciona em Macs Apple Silicon e Intel, com macOS 13 ou superior.
 
 ## Permissão de Acessibilidade
 
-Para colar direto no app em uso, o Clipo simula ⌘V, e o macOS exige a permissão de Acessibilidade. Abra **Ajustes do Sistema > Privacidade e Segurança > Acessibilidade** e ative a chave do **Clipo**.
+Para colar direto no app em uso, o Clipo simula ⌘V, e o macOS exige a permissão de Acessibilidade. O caminho muda com a versão do macOS:
+
+- **macOS 13 a 26:** Ajustes do Sistema > Privacidade e Segurança > **Acessibilidade**
+- **macOS 27 ou superior:** Ajustes do Sistema > Privacidade e Segurança > **Controle do Dispositivo e Acesso a Dados**
+
+Ative a chave do **Clipo**. O botão "Abrir Ajustes do Sistema", nas Preferências do Clipo, já leva direto à tela certa.
 
 Sem a permissão o Clipo continua funcionando, mas só copia o item; você cola com ⌘V.
 

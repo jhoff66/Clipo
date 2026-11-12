@@ -36,4 +36,8 @@ xattr -dr com.apple.quarantine "$dest/Clipo.app" 2>/dev/null || true
 
 open "$dest/Clipo.app"
 echo "Clipo instalado em $dest/Clipo.app e aberto. Procure o clipe na barra de menus."
-echo "Para colar sozinho, libere o Clipo em Ajustes do Sistema > Privacidade e Segurança > Acessibilidade."
+if [ "$major" -ge 27 ]; then
+    echo "Para colar sozinho, libere o Clipo em Ajustes do Sistema > Privacidade e Segurança > Controle do Dispositivo e Acesso a Dados."
+else
+    echo "Para colar sozinho, libere o Clipo em Ajustes do Sistema > Privacidade e Segurança > Acessibilidade."
+fi
